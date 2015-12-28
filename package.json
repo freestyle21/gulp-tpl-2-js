@@ -1,0 +1,83 @@
+{
+  "_args": [
+    [
+      "gulp-tpl-2-js",
+      "/Users/qubaoming/Documents/Kuaidi/work/nsky-bao"
+    ]
+  ],
+  "_from": "gulp-tpl-2-js@*",
+  "_id": "gulp-tpl-2-js@2.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-tpl-2-js",
+  "_nodeVersion": "5.2.0",
+  "_npmUser": {
+    "email": "675861708@qq.com",
+    "name": "freestyle21"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gulp-tpl-2-js",
+    "raw": "gulp-tpl-2-js",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_shasum": "2d1f9626fe3f0e22e33482e99ab4b5cfb14d829e",
+  "_shrinkwrap": null,
+  "_spec": "gulp-tpl-2-js",
+  "_where": "/Users/qubaoming/Documents/Kuaidi/work/nsky-bao",
+  "author": {
+    "email": "675861708@qq.com",
+    "name": "qubaoming",
+    "url": "freestyle21.cn"
+  },
+  "bugs": {
+    "url": "https://github.com/freestyle21/tpl-2-js/issues"
+  },
+  "dependencies": {
+    "colors": "*",
+    "commander": "*",
+    "glob": "*",
+    "handlebars": "*",
+    "mkdirp": "*",
+    "q": "*"
+  },
+  "description": "A tool which can compile tpl to tpl.js & replace `require('xxx.tpl')` to `require('xxx.tpl.js')`",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2d1f9626fe3f0e22e33482e99ab4b5cfb14d829e",
+    "tarball": "http://registry.npmjs.org/gulp-tpl-2-js/-/gulp-tpl-2-js-2.0.2.tgz"
+  },
+  "homepage": "https://github.com/freestyle21/tpl-2-js#readme",
+  "keywords": [
+    "js",
+    "to",
+    "tpl"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "freestyle21",
+      "email": "675861708@qq.com"
+    }
+  ],
+  "name": "gulp-tpl-2-js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freestyle21/tpl-2-js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.2.2"
+}
